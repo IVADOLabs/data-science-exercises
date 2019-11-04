@@ -1,0 +1,5 @@
+route_id,route_origin_id, load_id,movement,transit_start,transit_end,loading_start,loading_end,transport_start,transport_end,unloading_start,unloading_end
+0,2511,40104124,Pickup,03:42,08:00,08:00,08:45,08:45,10:20,12:05,12:50
+0,2511,,Return,12:50,12:50,-0,-0,-0,-0,-0,-0
+1,2511,39656103,Pickup,05:27,09:04,09:04,09:49,09:49,13:26,15:02,15:47
+1,2511,,Return,15:47,15:47,-0,-0,-0,-0,0,0
